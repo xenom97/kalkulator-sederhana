@@ -1,0 +1,31 @@
+#calculator {
+    max-width:300px;
+    position:absolute;
+    left:50%;
+    top:50%;
+    margin-left:-150px;
+    margin-top:-200px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    background: #00B8D4;
+    color: white;
+  }
+  
+  input {
+    margin: 2px;
+    text-align: center;
+    width: 100%;
+  }
+  
+  button {
+    background: transparent;
+    padding: 5px 20px;
+    margin: 10px 0;
+    width: 50px;
+    border-radius: 5px;
+  }
+  
+  button:hover {
+    background: cyan;
+  }
